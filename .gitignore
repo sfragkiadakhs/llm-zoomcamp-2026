@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.envrc
+
+# Python version (pyenv)
+.python-version
+
+# Temporary files
+.tmp
+*.tmp
+
+# IDE settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
